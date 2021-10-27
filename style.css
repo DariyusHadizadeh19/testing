@@ -47,22 +47,6 @@ section{
   background:none;
 }
 
-.btn{
-  display: inline-block;
-  margin-top: 1rem;
-  background:var(--orange);
-  color:#fff;
-  padding:.8rem 3rem;
-  border:.2rem solid var(--orange);
-  cursor: pointer;
-  font-size: 1.7rem;
-}
-
-.btn:hover{
-  background:rgba(255, 165, 0,.2);
-  color:var(--orange);
-}
-
 header{
   position: fixed;
   top:0; left: 0; right:0;
@@ -163,29 +147,6 @@ header .search-bar-container{
   width:100%;
   object-fit: cover;
 }
-
-.home .controls{
-  padding:1rem;
-  border-radius: 5rem;
-  background:rgba(0,0,0,.7);
-  position: relative;
-  top:10rem;
-}
-
-.home .controls .vid-btn{
-  height:2rem;
-  width:2rem;
-  display: inline-block;
-  border-radius: 50%;
-  background:#fff;
-  cursor: pointer;
-  margin:0 .5rem;
-}
-
-.home .controls .vid-btn.active{
-  background:var(--orange);
-}
-
 .footer{
   background:#333;
 }

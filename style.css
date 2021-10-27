@@ -65,18 +65,10 @@ header .logo{
   text-transform: uppercase;
 }
 
-header .logo span{
-  color:var(--orange);
-}
-
 header .navbar a{
   color:#fff;
   font-size: 2rem;
   margin:0 .8rem;
-}
-
-header .navbar a:hover{
-  color:var(--orange);
 }
 
 header .icons i{
@@ -84,10 +76,6 @@ header .icons i{
   color:#fff;
   cursor: pointer;
   margin-right: 2rem;
-}
-
-header .icons i:hover{
-  color:var(--orange);
 }
 
 header .search-bar-container{
@@ -179,11 +167,6 @@ header .search-bar-container{
   font-size: 1.5rem;
   padding:.7rem 0;
   color:#eee;
-}
-
-.footer .box-container .box a:hover{
-  color:var(--orange);
-  text-decoration: underline;
 }
 
 .footer .credit{

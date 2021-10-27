@@ -67,8 +67,8 @@ header .logo{
 
 header .navbar a{
   color:#fff;
-  font-size: 2rem;
-  margin:0 .8rem;
+  font-size: 1.5rem;
+  margin: 2rem;
 }
 
 header .icons i{
@@ -76,18 +76,6 @@ header .icons i{
   color:#fff;
   cursor: pointer;
   margin-right: 2rem;
-}
-
-header .search-bar-container{
-  position: absolute;
-  top:100%; left: 0; right:0;
-  padding:1.5rem 2rem;
-  background:#333;
-  border-top: .1rem solid rgba(255,255,255,.2);
-  display: flex;
-  align-items: center;
-  z-index: 1001;
-  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
 
 #menu-bar{

@@ -51,7 +51,7 @@ section{
   display: inline-block;
   margin-top: 1rem;
   background:var(--orange);
-  color:#fff;
+  color:#007aff;
   padding:.8rem 3rem;
   border:.2rem solid var(--orange);
   cursor: pointer;

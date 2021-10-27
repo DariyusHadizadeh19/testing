@@ -200,43 +200,6 @@ header .search-bar-container{
   color:var(--orange);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
-
-@media (max-width:1200px){
-
-  html{
-    font-size: 55%;
-  }
-
-}
-
-@media (max-width:991px){
-
-  header{
-    padding:2rem;
-  }
-
-  section{
-    padding:2rem;
-  }
-
-}
-
 @media (max-width:768px){
 
   #menu-bar{
@@ -265,12 +228,6 @@ header .search-bar-container{
   }
 
 }
-
-@media (max-width:450px){
-
-  html{
-    font-size: 50%;
-  }
 
   .heading span{
     font-size: 2.5rem;

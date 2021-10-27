@@ -23,7 +23,7 @@ body {
     padding: 2rem;
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
     border-radius: var(--border-radius);
-    background: #ffffff;
+    background: #6f77e1;
 }
 
 .container,
@@ -104,7 +104,7 @@ body {
     border-radius: var(--border-radius);
     outline: none;
     cursor: pointer;
-    background: var(--color-primary);
+    background: #3d4645;
 }
 
 .form__button:hover {
